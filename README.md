@@ -6,4 +6,4 @@ ECS-20 Discrete Mathematics for Computer Science, Winter 2021 @ucdavis
 2. Relations
 3. Functions
 4. Logic and Propositions
-5.
+5. Proof Techniques
