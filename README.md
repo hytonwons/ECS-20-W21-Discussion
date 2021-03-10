@@ -10,3 +10,5 @@ ECS-20 Discrete Mathematics for Computer Science, Winter 2021 @ucdavis
 6. Integer algorithms
 7. Counting
 8. Recursion
+9. Asymptotic Notation: e.g. Big O
+10. Graphs and Trees
